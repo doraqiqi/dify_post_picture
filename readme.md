@@ -1,6 +1,6 @@
 ### Intro
 
-You can use this API to send the picture to the dify.ai server and get feedback.
+You can use this API to send the picture to your dify.ai server and get feedback.
 
 ### Install env
 
