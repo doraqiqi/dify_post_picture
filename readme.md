@@ -6,7 +6,7 @@ You can use this API to send the picture to the dify.ai server and get feedback.
 
 pip install --no-cache-dir flask requests
 
-# API configuration
+### API configuration
 API_KEY = "Your API KEY"  
 UPLOAD_URL = "your server/v1/files/upload"  
 WORKFLOW_URL = "your server/v1/workflows/run"  
